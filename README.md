@@ -51,7 +51,7 @@ Parcial 1 desarrollo web
 * **Node.js** con **Express** (servidor web)
 * **JWT** (manejo de autenticación por tokens)
 * **bcrypt** (hashing de contraseñas)
-* **MongoDB ** (base de datos)
+* **MongoDB** (base de datos)
 ---
 
 ## 🔑 Endpoints principales
